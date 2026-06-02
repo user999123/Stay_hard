@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FrMC-puLe.aternos.me:42335",
+    "ip": "FrMC-puLe.aternos.me",
     "port": 42335,
     "version": "26.1.2",
     "try-creative": false
